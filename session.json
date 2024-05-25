@@ -1,0 +1,30 @@
+{
+  "cookies": [
+    {
+      "name": "andcards_user_access_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjZDk3NjUwLWY0NWYtMTFlZS1hNDEyLWQ3MWM3NTVlYzhhOCIsIm5ldHdvcmtSZWYiOiI0OTg1OWM2Ni0xNWJhLTExZTktYjI3ZS0wYTljZjNlODMwMDIiLCJ1c2VyUmVmIjoiNGQ0YzQ2MGEtODBmYy0xMWVjLTkwNTYtMDJiYWM5ZjE5MWIwIiwiaWF0IjoxNzEyNDQwMDkxLCJleHAiOjE3MTI0NDM2OTF9._ExeFfv40j4T820BG2u8ieH1Bz8ZrrY_KJwsv4ogPWQ",
+      "domain": ".startuphub.andcards.com",
+      "path": "/",
+      "expires": 1747000092.33484,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "andcards_user_refresh_token",
+      "value": "GxO5IdaUtSawNSBlDG54PrfMWTJAT9u5Ef4ecfJAw4qh9HxFWmGjWFZJNAGbUMyIqL1aBOVt0JKB5pxWSuOfoytt9j1ClB6CjSQtViEzpeVYimTd1IlC6iqjwYEmsJXe722lyRbxv0P47jJyyEKpYtUWSiVzgf578pJb1rsTgAdvKN2TaiLVKkrb74c8DMZsc2MWYfcR9necRNVnjXtKHhQxC0sjydwCnN6JrS2yEGfWMNCGn9sUOqoAHUGTIqsK",
+      "domain": ".startuphub.andcards.com",
+      "path": "/",
+      "expires": 1747000092.334903,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://startuphub.andcards.com",
+      "localStorage": []
+    }
+  ]
+}
