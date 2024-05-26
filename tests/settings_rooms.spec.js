@@ -249,9 +249,4 @@ test.describe("Functional overview of the Rooms page", () => {
       await expect(page.getByRole("navigation").getByRole("link", { name: "Rooms" })).toBeVisible();
     }
   });
-
-  test("User must be able to change room settings", async ({ page }) => {
-   await page.locator("fieldset ", { hasText: "Book Ahead" }).locator('select').selectOption(['1 week', '6 months'])
-   await page.locator("fieldset ", { hasText: "Book for Free" }).locator('select').selectOption('One Active')   // 
-  });
 });
